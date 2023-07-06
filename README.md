@@ -6,4 +6,4 @@ Part 1: `pandas_numpy.ipynb`: an introduction to pandas and numpy and functional
 
 Part 2: `preprocessing_matplotlib.ipynb`: an example of preprocessing and data examination with numpy and pandas, and an introduction to visualization with MatPlotLib.
 
-Part 3: `in progress`: an introduction to developing models and picking the best one for your project, using scikit-learn, scipy, and tensorflow.
+Part 3: `machine_learning.ipynb`: an introduction to developing models and picking the best one for your project, using scikit-learn, scipy, and tensorflow.
